@@ -1,4 +1,3 @@
 [
-	{ "keys": ["command+,"], "command": "toggle_side_bar" },
 	{ "keys": ["command+."], "command": "copyrightme", "args": {"text": "your copyright comment goes here"} }
 ]
