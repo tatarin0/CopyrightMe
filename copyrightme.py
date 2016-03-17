@@ -2,7 +2,6 @@ import sublime, sublime_plugin
 
 class CopyrightmeCommand(sublime_plugin.TextCommand):
 	def run(self, edit, text):
-		(row, col) = self.view.rowcol(0)
 		region = self.view.visible_region()
 
 		if text not in self.view.substr(region):
