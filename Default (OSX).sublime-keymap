@@ -1,3 +1,0 @@
-[
-	{ "keys": ["command+."], "command": "copyrightme", "args": {"text": "your copyright comment goes here"} }
-]

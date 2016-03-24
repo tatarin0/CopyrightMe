@@ -1,3 +1,0 @@
-[
-	{ "keys": ["ctrl+."], "command": "copyrightme", "args": {"text": "your copyright comment goes here"} }
-]
