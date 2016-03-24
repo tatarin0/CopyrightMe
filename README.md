@@ -7,6 +7,8 @@ Go to the "Packages" directory (`Preferences` / `Browse Packages...`). You can e
 ## Usage
 To specify copyright text, make sure you add `"copyright_text": "your text goes here"` in your user preferences. Go to Preferences > Settings - User, which would open `Preferences.sublime-settings` file
 
+You can also execute the copyright command via menubat the top Tools > Copyrightme
+
 By default, keyboard shortcut to insert copyright information is ``command + .`` for Mac or ``control + .`` for Windows.
 
 ## About
