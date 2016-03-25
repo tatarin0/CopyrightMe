@@ -1,9 +1,19 @@
 [
+{
+	"id" : "tools",
+	"children":
+	[
 	{
-	  "id" : "tools",
-	  "children":
-	  [
-	    {"caption" : "run" }, {"command" : "copyrightme"}
-	  ]
+		"id" : "CopyrightMe",
+		"caption" : "CopyrightMe",
+		"children":
+		[
+		{
+			"caption" : "Insert Copyright text",
+			"command" : "copyrightme"
+		}
+		]
 	}
+	]
+}
 ]
