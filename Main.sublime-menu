@@ -1,9 +1,9 @@
 [
-{
-  "id" : "tools",
-  "children":
-  [
-    {"caption" : "run" }, {"command" : "copyrightme"}
-  ]
-}
+	{
+	  "id" : "tools",
+	  "children":
+	  [
+	    {"caption" : "run" }, {"command" : "copyrightme"}
+	  ]
+	}
 ]
