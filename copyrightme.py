@@ -18,7 +18,7 @@ class CopyrightmeCommand(sublime_plugin.TextCommand):
 		self.insertCopyright(self.presetCopyright());
 
 	# use preset option or if doesnt exist use placeholder
-	def presetCopyright(self):
+	def getText(self):
 		if self.settings_file.has(copyright_preset):
 			text = settings_file.get(copyright_preset)
 		else:
