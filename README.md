@@ -9,7 +9,7 @@ To specify copyright text, make sure you add `"copyright_text": "your text goes 
 
 You can also execute the copyright command via menu at the top of the window: Tools > Copyrightme
 
-By default, keyboard shortcut to insert copyright information is ``command + .`` for Mac or ``control + .`` for Windows.
+By default, keyboard shortcut to insert copyright information is <kbd>Cmd</kbd> + <kbd>.</kbd> for Mac or <kbd>Ctrl</kbd> + <kbd>.</kbd> for Windows.
 
 ## About
 Inserts specified copyright string into the open file if one doesn't already exist.
